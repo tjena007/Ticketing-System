@@ -1,0 +1,16 @@
+C:\Users\Tanmay Jena\source\repos\Project2App\Project2App\bin\Debug\net5.0\Project2App.exe
+C:\Users\Tanmay Jena\source\repos\Project2App\Project2App\bin\Debug\net5.0\Project2App.deps.json
+C:\Users\Tanmay Jena\source\repos\Project2App\Project2App\bin\Debug\net5.0\Project2App.runtimeconfig.json
+C:\Users\Tanmay Jena\source\repos\Project2App\Project2App\bin\Debug\net5.0\Project2App.runtimeconfig.dev.json
+C:\Users\Tanmay Jena\source\repos\Project2App\Project2App\bin\Debug\net5.0\Project2App.dll
+C:\Users\Tanmay Jena\source\repos\Project2App\Project2App\bin\Debug\net5.0\ref\Project2App.dll
+C:\Users\Tanmay Jena\source\repos\Project2App\Project2App\bin\Debug\net5.0\Project2App.pdb
+C:\Users\Tanmay Jena\source\repos\Project2App\Project2App\obj\Debug\net5.0\Project2App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tanmay Jena\source\repos\Project2App\Project2App\obj\Debug\net5.0\Project2App.AssemblyInfoInputs.cache
+C:\Users\Tanmay Jena\source\repos\Project2App\Project2App\obj\Debug\net5.0\Project2App.AssemblyInfo.cs
+C:\Users\Tanmay Jena\source\repos\Project2App\Project2App\obj\Debug\net5.0\Project2App.csproj.CoreCompileInputs.cache
+C:\Users\Tanmay Jena\source\repos\Project2App\Project2App\obj\Debug\net5.0\Project2App.dll
+C:\Users\Tanmay Jena\source\repos\Project2App\Project2App\obj\Debug\net5.0\ref\Project2App.dll
+C:\Users\Tanmay Jena\source\repos\Project2App\Project2App\obj\Debug\net5.0\Project2App.pdb
+C:\Users\Tanmay Jena\source\repos\Project2App\Project2App\obj\Debug\net5.0\Project2App.genruntimeconfig.cache
+C:\Users\Tanmay Jena\source\repos\Project2App\Project2App\obj\Debug\net5.0\Project2App.csproj.AssemblyReference.cache

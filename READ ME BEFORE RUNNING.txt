@@ -1,0 +1,3 @@
+- This project contains one solution file, Project2App.sln
+- There's only one file in the Solution -> Program.cs which contains all the classes and the Main method as well.
+- Main method lies within the Project2 class, which is the entry point to the program.
